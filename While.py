@@ -5,5 +5,5 @@ while i <= 5:
     i = i + 1
     
     
-    #It is one of the looping Statement.
+    #It is one of the looping  Statement.
     
